@@ -1,0 +1,7 @@
+transformers
+accelerate
+datasets
+torch
+safetensors
+huggingface_hub
+Pillow

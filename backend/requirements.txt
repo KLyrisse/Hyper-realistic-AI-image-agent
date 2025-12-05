@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+Pillow
+transformers
+datasets
+accelerate
+torch
+safetensors
+genai
+httpx
